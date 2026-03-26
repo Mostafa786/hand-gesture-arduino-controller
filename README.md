@@ -35,7 +35,7 @@ no keyboard, just your fingers.
 
 Before running the code, upload **StandardFirmata** to your Arduino:
 
-- Open **Arduino IDE**
+- Open **Visual Studio Code**
 - Go to: `File → Examples → Firmata → StandardFirmata`
 - Upload it to your board
 
