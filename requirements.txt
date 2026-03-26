@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+pyfirmata2
+pyserial
